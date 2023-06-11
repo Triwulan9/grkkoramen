@@ -1,0 +1,239 @@
+{
+  "ramen": [
+    {
+      "foto": "images/produk/ramen/omurice.jpg",
+      "nama": "Omurice",
+      "size": "1 Porsi",
+      "harga": "Rp. 20k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/ramen/kitsune_udon.jpg",
+      "nama": "Kitsune Udon",
+      "size": "1 Porsi",
+      "harga": "Rp. 45k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/ramen/miso_ramen.jpg",
+      "nama": "Miso Ramen",
+      "size": "1 Porsi",
+      "harga": "Rp. 65k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/ramen/Gyudon.jpg",
+      "nama": "Gyudon",
+      "size": "1 Porsi",
+      "harga": "Rp. 30k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/ramen/salmon_sashimi.jpg",
+      "nama": "Salmon Sashimi",
+      "size": "1 Porsi",
+      "harga": "Rp. 75k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/ramen/hambagu.jpg",
+      "nama": "Hambagu",
+      "size": "1 Porsi",
+      "harga": "Rp. 70k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/ramen/onigiri.jpg",
+      "nama": "Onigiri",
+      "size": "1 Porsi",
+      "harga": "Rp. 20k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/ramen/Gyoza.jpg",
+      "nama": "Gyoza",
+      "size": "1 Porsi",
+      "harga": "Rp. 25k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/ramen/chanko_nabe.jpg",
+      "nama": "Chanko Nabe",
+      "size": "1 Porsi",
+      "harga": "Rp. 70k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    }
+  ],
+  "desert": [
+    {
+      "foto": "images/produk/Desert/blueberry_pudding.jpg",
+      "nama": "Blueberry Pudding",
+      "size": "1 Porsi",
+      "harga": "Rp. 10k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/Desert/Calpis_japanese drink.jpg",
+      "nama": "Calpis Japanese Drink",
+      "size": "1 Porsi",
+      "harga": "Rp. 10k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/Desert/dango.jpg",
+      "nama": "Dango",
+      "size": "1 Porsi",
+      "harga": "Rp. 15k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/Desert/dorayaki.jpg",
+      "nama": "Dorayaki",
+      "size": "1 Porsi",
+      "harga": "Rp. 15k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/Desert/ice_cream_macha2.jpg",
+      "nama": "Ice Cream Macha",
+      "size": "1 Porsi",
+      "harga": "Rp. 10k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/Desert/macha_tiramisu.jpg",
+      "nama": "Macha Tiramisu",
+      "size": "1 Porsi",
+      "harga": "Rp. 15k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/Desert/mochi_icecream.jpg",
+      "nama": "Mochi Ice Cream",
+      "size": "1 Porsi",
+      "harga": "Rp. 10k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/Desert/macha_pannacotta.jpg",
+      "nama": "Macha Pannacota",
+      "size": "1 Porsi",
+      "harga": "Rp. 12k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/Desert/puding.jpg",
+      "nama": "Honey Pudding",
+      "size": "1 Porsi",
+      "harga": "Rp. 10k",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    }
+  ],
+  "icedrink": [
+    {
+      "foto": "images/produk/drink/sweet_potato_bubletea.jpg",
+      "nama": "Sweet Potato Buble Tea",
+      "size": "300 ML",
+      "harga": "Rp. 40k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/stroberry_mint_mojito.jpg",
+      "nama": "Stroberry Mint Mojito",
+      "size": "300 ML",
+      "harga": "Rp. 45k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/rasberry_lemonade.jpg",
+      "nama": "Rasberry Lemonade",
+      "size": "250 ML",
+      "harga": "Rp. 33k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/sakura_fluttering_almond.jpg",
+      "nama": "Sakura Fluttering Almond",
+      "size": "280 ML",
+      "harga": "Rp. 35k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/stroberi_milk_bubletea.jpg",
+      "nama": "Stroberry Milk Buble Tea",
+      "size": "280 ML",
+      "harga": "Rp. 40k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/taro_milk_bubletea.jpg",
+      "nama": "Taro Milk Buble Tea",
+      "size": "300 ML",
+      "harga": "Rp. 45k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/manggo_smuttie_withboba.jpg",
+      "nama": "Manggo With boba",
+      "size": "450 ML",
+      "harga": "Rp. 45k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/macha_mojito.jpg",
+      "nama": "Macha Mojito",
+      "size": "300 ML",
+      "harga": "Rp. 30k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/lavender_lemonade.jpg",
+      "nama": "Lavender Lemonade",
+      "size": "300 ML",
+      "harga": "Rp. 30k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/hotchocolate_bubletea.jpg",
+      "nama": "Chocolate Buble Tea",
+      "size": "350 ML",
+      "harga": "Rp. 40k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/honeydew_milktea.jpg",
+      "nama": "Honeydew Milk Tea",
+      "size": "300 ML",
+      "harga": "Rp. 45k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/Ginger_mint_lemonade.jpg",
+      "nama": "Ginger Mint",
+      "size": "300 ML",
+      "harga": "Rp. 30k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/coconut_water_lemonade.jpg",
+      "nama": "Coconut Lemonade",
+      "size": "300 ML",
+      "harga": "Rp. 30k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/chocolate_cerry_icelatte.jpg",
+      "nama": "Chocolate Cerry Ice Latte",
+      "size": "300 ML",
+      "harga": "Rp. 45k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/drink/c.jpg",
+      "nama": "Macha Milk Buble Tea",
+      "size": "280 ML",
+      "harga": "Rp. 45k",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    }
+  ]
+}
