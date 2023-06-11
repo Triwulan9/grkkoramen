@@ -20,7 +20,8 @@ html {
 body {
   /* mendaftarkan semua teks pada body menjadi family Poppins */
   font-family: "Poppins";
-
+  background-image: url(../images/bg/bgproduk3.png);
+  background-size: 25%;
   color: white;
 }
 
